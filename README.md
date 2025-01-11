@@ -83,6 +83,6 @@ This project involves creating and improving a Python script to check password s
 
 ## Documentation
 For detailed project steps and scripts, refer to:
-- [Project Details](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Project.docx)
-- [Original Python Code](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Original%20Python%20Code.py)
-- [Improved Python Code](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Improved%20Python%20Code.py)
+[Project Overview](https://github.com/StephVergil/Hacking-and-Ethical-Hacking/blob/main/Project.docx)
+[Original Python Code](https://github.com/StephVergil/Hacking-and-Ethical-Hacking/blob/main/Original%20Python%20Code.py)
+[Improved Python Code](https://github.com/StephVergil/Hacking-and-Ethical-Hacking/blob/main/Improved%20Python%20Code.py) 
