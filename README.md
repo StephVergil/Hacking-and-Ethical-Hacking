@@ -148,9 +148,13 @@ This project involves creating and enhancing a Python script to evaluate passwor
 1. **Project Documentation**:
    - [Password Strength Checker Documentation](https://github.com/StephVergil/Password-Strength-Checker/blob/main/Documentation.docx)
 
-2. **Code Files**:
+2. **Resource**:
+   - [The Python Code](https://thepythoncode.com/topic/general-python-topics): A helpful resource for Python code examples and general Python topics.
+
+3. **Code Files**:
    - [Original Python Code](https://github.com/StephVergil/Hacking-and-Ethical-Hacking/blob/main/Original%20Python%20Code.py)
    - [Improved Python Code](https://github.com/StephVergil/Hacking-and-Ethical-Hacking/blob/main/Improved%20Python%20Code.py)
+   
 
 ---
 # Comprehensive Resources for Password Strength Checking and Security
